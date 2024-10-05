@@ -1,0 +1,88 @@
+/* Container for the entire seat selection section */
+.seat-selection {
+  margin: 0 auto;
+  padding: 20px;
+  width: 60%;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Grid layout for the seats */
+.seat-grid {
+  display: grid;
+  grid-template-columns: repeat(10, 50px); /* 10 seats per row */
+  grid-gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/* Styling for each seat */
+.seat {
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Default seat (available) */
+.seat.available {
+  background-color: white;
+  border: 2px solid #007bff;
+}
+
+/* Selected seat */
+.seat.selected {
+  background-color: yellow;
+  border: 2px solid #ffcc00;
+}
+
+/* Booked seat (unavailable) */
+.seat.booked {
+  background-color: gray;
+  border: 2px solid #aaa;
+  cursor: not-allowed;
+}
+
+/* VIP or special seat (campaign, disabled, etc.) */
+.seat.vip {
+  background-color: purple;
+  border: 2px solid #e5e;
+  color: white;
+}
+
+/* Seat hover effect */
+.seat:hover {
+  background-color: lightgray;
+}
+
+/* Information legend */
+.seat-info {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.seat-info div {
+  margin: 0 10px;
+}
+
+.seat-info .seat-label {
+  display: flex;
+  align-items: center;
+}
+
+.seat-info .seat-label .box {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  border: 2px solid #000;
+}

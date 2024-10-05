@@ -1,0 +1,57 @@
+.seans-section {
+    margin: 20px;
+  }
+  
+  .city-search-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  .city-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .city-list li {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .city-list li:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .date-tabs {
+    display: flex;
+    overflow-x: auto;
+    margin: 10px 0;
+  }
+  
+  .date-tab {
+    margin-right: 10px;
+    padding: 10px;
+  }
+  
+  .seans-container {
+    margin: 20px 0;
+  }
+  
+  .venue-container {
+    margin-bottom: 10px;
+  }
+  
+  .time-button {
+    background-color: #ffc107;
+    border: none;
+    padding: 8px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .time-button:hover {
+    background-color: #ffae00;
+  }
+  

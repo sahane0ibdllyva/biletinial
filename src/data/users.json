@@ -1,0 +1,18 @@
+{
+   "sign_in": [{
+      "username": "john_doe",
+      "password": "123456",
+      "email": "john@example.com"
+    }],
+    "sign_up":[{
+        "name": "",
+        "surname": "",
+        "email": "",
+        "tel": "",
+        "country": "",
+        "city": "",
+        "gender": "",
+        "password": ""
+    }]
+  
+  } 

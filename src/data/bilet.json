@@ -1,0 +1,464 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Joker",
+        "description": "A mentally troubled stand-up comedian embarks on a downward spiral...",
+        "type": ["Drama", "Crime"],
+        "releaseDate": "04 October 2019",
+        "editorRating": "4.5",
+        "viewerRating": "4.3",
+        "fullDescription": "Joker tells the tragic story of Arthur Fleck, a man disregarded by society...",
+        "poster": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/joker-ikili-delilik-202482713612d725348b0f6649ceab3d354503a68ee2.jpg",
+        "trailerLink": "https://www.youtube.com/watch?v=t433PEQGErc",
+       
+        "comments": [
+          { "text": "Incredible performance by Joaquin Phoenix!", "rating": 5 },
+          { "text": "Too dark for my taste", "rating": 3 }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Avengers: Endgame",
+        "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins...",
+        "type": ["Action", "Adventure", "Sci-Fi"],
+        "releaseDate": "26 April 2019",
+        "editorRating": "4.7",
+        "viewerRating": "4.6",
+        "fullDescription": "With the help of remaining allies, the Avengers assemble once more to reverse Thanos' actions...",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+        "trailerLink": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+       
+        "comments": [
+          { "text": "A perfect conclusion to the Infinity Saga", "rating": 5 },
+          { "text": "Too long but great action scenes", "rating": 4 }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Deadpool & Wolverine",
+        "description": "Deadpool, daha edepsiz ve çılgın yeni maceralarıyla geri döndü. Kahkaha ve aksiyon dolu bir yolculuk...",
+        "type": ["Aksiyon","Bilim", "Kurgu", "IMAX" ,"Komedi"],
+        "releaseDate": "24 Temmuz 2024 Çarşamba",
+        "editorRating": "4",
+        "viewerRating": "4,3",
+        "fullDescription": "Deadpool & Wolverine filminde kahramanlarımız yeni maceralarla geri dönüyor. Ryan Reynolds’ın ağzı bozuk Wade Wilson’ı, Hugh Jackman’ın meşhur pençeli Wolverine ile bir araya gelerek izleyicilerle buluşuyor. Reynolds ve Jackman, doğdukları karakterlere yeniden hayat verdiği bu filmde iki kahramanın evreni kurtarmak için bir araya gelmelerini ve Emma Corrin’in kötü karakteri Cassandra Nova’ya karşı mücadele etmelerini konu ediniyor. Reynolds ve Jackman’ın dostluğu, filme dost ve düşman dinamizmi katarken Jackman’ın Wolverine çizgi romanlarındaki sarı kostümünü giymesi ise nostaljik anlar yaratıyor. Deadpool & Wolverine filmi, Marvel Sinematik Evreni’nde (MCU) aksiyon dolu sahneler ve esprili diyaloglar sunuyor. Sinema biletinizi hemen alın ve bu heyecana siz de ortak olun!",
+        "poster": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/deadpool-wolverine-20247261628462b1543693de645e4b8bb83e526c4e47f.jpg",
+        "back-poster": "https://b6s54eznn8xq.merlincdn.net/Uploads/ImageEntries/Event/45580/Kapak-6622a4e73f9a4900b0f466085bf1f822.jpg",
+        "trailerLink": "",
+        "sure": 127,
+        "comments": [
+          { "text": "A perfect conclusion to the Infinity Saga", "rating": 5 },
+          { "text": "Too long but great action scenes", "rating": 2 }
+        ],
+        "galeri": [
+          "https://b6s54eznn8xq.merlincdn.net/Uploads/CinemaImages/5e662246e83649fc8352e2c6adfb4412.jpg",
+          "https://b6s54eznn8xq.merlincdn.net/Uploads/CinemaImages/b4627855d9ac4f09bcbcad27b5897139.jpg",
+          "https://b6s54eznn8xq.merlincdn.net/Uploads/CinemaImages/5457eb54077241278c96dd482ac2613a.jpg"
+        ],
+        "cities":[
+          {
+            "city":"Istanbul",
+            "seans": [
+              {
+                "event_date": "25 Eylül 2024",
+                "venues": [
+                  {"venue": {"venue_name":"Arena Park Site Sinemaları","about":"ArenaPark Site Sinemaları hakkında bilgi alıp, bilet fiyatlarına, etkinlik bilgilerine, salonun telefon numarasına Biletinial kalitesiyle hemen ulaşın. Site Sinemaları, 30 yılı aşkın süredir sinemaseverlere en üst düzeyde hizmet sunmayı temel ilke olarak benimsemiş ve uluslararası standartlardaki teknolojiyi bu misyonla harmanlamıştır. Tüm şubelerinde olduğu gibi ArenaPark Site Sinemaları'nda da 3D özelliği bulunmaktadır ve bununla birlikte geniş aralıklı, tekli ve çiftli deri koltuklar film izleme keyfini arttırmaktadır.",
+                 "venue_foto":"https://b6s54eznn8xq.merlincdn.net/Uploads/BranchCover/216d567147234f3d83ff5b9804f19dc2.jpg", "contact":{"tel":"Arena Park Site Sinemaları ile iletişime geçmek için 2124729410 telefon numarasını kullanabilirsiniz.","adres":"Atakent, Çiçekli Vadi Cd. ArenaPark Alışveriş Merkezi No:1/S, 34307 Küçükçekmece/İstanbul","cancel_ticket":"biletinial.com üzerinden aldığınız biletin iptal etmek için 0850 333 99 11 numaralı telefondan ya da https://biletinial.com/tr-tr/sayfa/satinalma-iptal-ve-iade sayfasından iptal edebilirsiniz."}},
+                           "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue": {"venue_name":"Armoni Park Site Sinemaları","about":"ArenaPark Site Sinemaları hakkında bilgi alıp, bilet fiyatlarına, etkinlik bilgilerine, salonun telefon numarasına Biletinial kalitesiyle hemen ulaşın. Site Sinemaları, 30 yılı aşkın süredir sinemaseverlere en üst düzeyde hizmet sunmayı temel ilke olarak benimsemiş ve uluslararası standartlardaki teknolojiyi bu misyonla harmanlamıştır. Tüm şubelerinde olduğu gibi ArenaPark Site Sinemaları'nda da 3D özelliği bulunmaktadır ve bununla birlikte geniş aralıklı, tekli ve çiftli deri koltuklar film izleme keyfini arttırmaktadır.",
+                  "venue_foto":"https://b6s54eznn8xq.merlincdn.net/Uploads/BranchCover/216d567147234f3d83ff5b9804f19dc2.jpg","contact":{"tel":"Arena Park Site Sinemaları ile iletişime geçmek için 2124729410 telefon numarasını kullanabilirsiniz.","adres":"Atakent, Çiçekli Vadi Cd. ArenaPark Alışveriş Merkezi No:1/S, 34307 Küçükçekmece/İstanbul","cancel_ticket":"biletinial.com üzerinden aldığınız biletin iptal etmek için 0850 333 99 11 numaralı telefondan ya da https://biletinial.com/tr-tr/sayfa/satinalma-iptal-ve-iade sayfasından iptal edebilirsiniz."}} ,
+                   "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "26 Eylül 2024",
+                "venues": [
+                  {"venue": {"venue_name":"Arena Park Site Sinemaları","about":"ArenaPark Site Sinemaları hakkında bilgi alıp, bilet fiyatlarına, etkinlik bilgilerine, salonun telefon numarasına Biletinial kalitesiyle hemen ulaşın. Site Sinemaları, 30 yılı aşkın süredir sinemaseverlere en üst düzeyde hizmet sunmayı temel ilke olarak benimsemiş ve uluslararası standartlardaki teknolojiyi bu misyonla harmanlamıştır. Tüm şubelerinde olduğu gibi ArenaPark Site Sinemaları'nda da 3D özelliği bulunmaktadır ve bununla birlikte geniş aralıklı, tekli ve çiftli deri koltuklar film izleme keyfini arttırmaktadır.",
+                 "venue_foto":"https://b6s54eznn8xq.merlincdn.net/Uploads/BranchCover/216d567147234f3d83ff5b9804f19dc2.jpg", "contact":{"tel":"Arena Park Site Sinemaları ile iletişime geçmek için 2124729410 telefon numarasını kullanabilirsiniz.","adres":"Atakent, Çiçekli Vadi Cd. ArenaPark Alışveriş Merkezi No:1/S, 34307 Küçükçekmece/İstanbul","cancel_ticket":"biletinial.com üzerinden aldığınız biletin iptal etmek için 0850 333 99 11 numaralı telefondan ya da https://biletinial.com/tr-tr/sayfa/satinalma-iptal-ve-iade sayfasından iptal edebilirsiniz."}},
+                          "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue": {"venue_name":"Armoni Park Site Sinemaları","about":"ArenaPark Site Sinemaları hakkında bilgi alıp, bilet fiyatlarına, etkinlik bilgilerine, salonun telefon numarasına Biletinial kalitesiyle hemen ulaşın. Site Sinemaları, 30 yılı aşkın süredir sinemaseverlere en üst düzeyde hizmet sunmayı temel ilke olarak benimsemiş ve uluslararası standartlardaki teknolojiyi bu misyonla harmanlamıştır. Tüm şubelerinde olduğu gibi ArenaPark Site Sinemaları'nda da 3D özelliği bulunmaktadır ve bununla birlikte geniş aralıklı, tekli ve çiftli deri koltuklar film izleme keyfini arttırmaktadır.",
+                  "venue_foto":"https://b6s54eznn8xq.merlincdn.net/Uploads/BranchCover/216d567147234f3d83ff5b9804f19dc2.jpg","contact":{"tel":"Arena Park Site Sinemaları ile iletişime geçmek için 2124729410 telefon numarasını kullanabilirsiniz.","adres":"Atakent, Çiçekli Vadi Cd. ArenaPark Alışveriş Merkezi No:1/S, 34307 Küçükçekmece/İstanbul","cancel_ticket":"biletinial.com üzerinden aldığınız biletin iptal etmek için 0850 333 99 11 numaralı telefondan ya da https://biletinial.com/tr-tr/sayfa/satinalma-iptal-ve-iade sayfasından iptal edebilirsiniz."}} ,
+                   "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "27 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4}
+                ]
+              }
+              ]
+          },
+          {
+            "city":"Ankara",
+            "seans": [
+              {
+                "event_date": "25 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Armoni Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "26 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Armoni Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "27 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4}
+                ]
+              }
+              ]
+          }
+        ]
+        
+      },
+       
+        
+      {
+        "id": 4,
+        "title": "Kaptan Pengu ve Arkadaşları 4: Buzuldaki Sır",
+        "description": "",
+        "type": ["Animasyon" ,"Komedi"],
+        "releaseDate": " 09 Ağustos 2024 Cuma",
+        "editorRating": "4",
+        "viewerRating": "4,3",
+        "fullDescription": "Tili, Okyanus Melekleri Ormanı’nın genel müdürü olarak ormanı bir tatil köyüne dönüştürmüş ve turistleri çekmeyi başarmıştır. Ancak, buzda meydana gelen bir çatlak yüzünden penguenlerin evleri zarar görür ve orman halkı arasında tartışmalar başlar. Kaptan Pengu ve arkadaşları durumu anlamak için kuzeye gelirler fakat geldiklerinde Tili yoktur. Bütün gruplardan dışlanan Tili bu sırada yeryüzündeki kimsenin varlığından haberi olmadığı gizemli biriyle tanışmıştır. Bu ikili, birbirlerinden çok şey öğrenecek ve penguenler şehriyle, ormanı yeniden kurmak için uzun bir yolculuğa çıkacaklardır.Kaptan Pengu ve Arkadaşları 4: Buzuldaki Sır filmi için hemen sinema biletinizi alın!",
+        "poster": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/kaptan-pengu-ve-arkadaslari-4-buzuldaki-sir-202478162532a24ef46fd0284f5d93802a5c1c0d3d89.jpg",
+        "back-poster": "https://b6s54eznn8xq.merlincdn.net/Uploads/ImageEntries/Event/46026/Kapak-077e0fc581574bee98125c4ea876d3cf.jpg",
+        "trailerLink": " https://www.youtube.com/embed/VrOxBaytyz8 ",
+        "sure": 149,
+        "comments": [
+          { "text": "A perfect conclusion to the Infinity Saga", "rating": 5 },
+          { "text": "Too long but great action scenes", "rating": 2 }
+        ],
+        "cities":[
+          {
+            "city":"Istanbul",
+            "seans": [
+              {
+                "event_date": "25 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Armoni Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "26 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Armoni Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "27 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4}
+                ]
+              }
+              ]
+          },
+          {
+            "city":"Ankara",
+            "seans": [
+              {
+                "event_date": "25 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Armoni Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "26 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Armoni Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "27 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4}
+                ]
+              }
+              ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Ters Yüz 2 ",
+        "description": "",
+        "type": [ "Macera","Animasyon" ,"Komedi"],
+        "releaseDate": " 09 Ağustos 2024 Cuma",
+        "editorRating": "5",
+        "viewerRating": "4,7",
+        "fullDescription": "Tili, Okyanus Melekleri Ormanı’nın genel müdürü olarak ormanı bir tatil köyüne dönüştürmüş ve turistleri çekmeyi başarmıştır. Ancak, buzda meydana gelen bir çatlak yüzünden penguenlerin evleri zarar görür ve orman halkı arasında tartışmalar başlar. Kaptan Pengu ve arkadaşları durumu anlamak için kuzeye gelirler fakat geldiklerinde Tili yoktur. Bütün gruplardan dışlanan Tili bu sırada yeryüzündeki kimsenin varlığından haberi olmadığı gizemli biriyle tanışmıştır. Bu ikili, birbirlerinden çok şey öğrenecek ve penguenler şehriyle, ormanı yeniden kurmak için uzun bir yolculuğa çıkacaklardır.Kaptan Pengu ve Arkadaşları 4: Buzuldaki Sır filmi için hemen sinema biletinizi alın!",
+        "poster": "https://b6s54eznn8xq.merlincdn.net/Uploads/Films/ters-yuz-2-2024527162310c96327697b0416e9dd479f70d67baeb.jpg",
+        "back-poster": "https://b6s54eznn8xq.merlincdn.net/Uploads/ImageEntries/Event/45241/Kapak-07cdd6fb03b543088704c78a8d0a5ff1.jpg",
+        "trailerLink": "https://youtu.be/SBsRMuSDbSM",
+        "sure": 100,
+        "comments": [
+          { "text": "A perfect conclusion to the Infinity Saga", "rating": 5 },
+          { "text": "Too long but great action scenes", "rating": 2 }
+        ],
+        "cities":[
+          {
+            "city":"Istanbul",
+            "seans": [
+              {
+                "event_date": "25 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Armoni Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "26 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Armoni Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "27 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4}
+                ]
+              }
+              ]
+          },
+          {
+            "city":"Ankara",
+            "seans": [
+              {
+                "event_date": "25 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Armoni Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "26 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Armoni Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "27 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4}
+                ]
+              }
+              ]
+          },
+          {
+            "city":"Mugla",
+            "seans": [
+              {
+                "event_date": "5 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Fethiye Erasta Aksin Sineması", "saat": ["11:00", "12:30", "15:15", "18:00"], "salon": 4},
+                  {"venue_name": "Oasis Bodrum Cinemarine", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "26 Eylül 2024",
+                "venues": [
+                  {"venue_name": "Oasis Bodrum Cinemarine", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Fethiye Erasta Aksin Sineması", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 6}
+                ]
+              },
+              {
+                "event_date": "7 Ekim 2024",
+                "venues": [
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4},
+                  {"venue_name": "Arena Park Site Sinemaları", "saat": ["13:00", "15:30", "18:15", "21:00"], "salon": 4}
+                ]
+              }
+              ]
+          }
+        ]
+      }
+    ],
+
+  
+
+
+
+
+
+
+    "concerts": [
+      
+    ],
+    "theater": [
+      {
+        "id": 8,
+        "title": "Romeo ve Juliet",
+        "description": "Shakespeare’in ölümsüz eseri...",
+        "type": ["Drama", "Romantic"],
+        "releaseDate": "01 November 2024",
+        "editorRating": "4.5",
+        "viewerRating": "4.7",
+        "fullDescription": "Romeo ve Juliet, trajik aşk hikayesi...",
+        "poster": "https://www.example.com/romeo.jpg",
+        
+        "comments": [
+          { "text": "Çox gözəl bir performans idi!", "rating": 5 },
+          { "text": "Dekor bir az zəif idi", "rating": 4 }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Hamlet",
+        "description": "Danimarka Prensi’nin intikam arayışı...",
+        "type": ["Drama", "Classic"],
+        "releaseDate": "15 October 2024",
+        "editorRating": "4.8",
+        "viewerRating": "4.9",
+        "fullDescription": "Hamlet, babasının intikamını almak için Danimarka’da...",
+        "poster": "https://www.example.com/hamlet.jpg",
+       
+        "comments": [
+          { "text": "Hamlet, bir şaheser!", "rating": 5 },
+          { "text": "Oyuncular müthişdi", "rating": 5 }
+        ]
+      }
+    ],
+    "music": [
+      {
+        "id": 10,
+        "title": "Zuhal Olcay - Caz Konseri",
+        "description": "Zuhal Olcay sahnede en iyi caz parçalarıyla...",
+        "type": ["Jazz", "Concert"],
+        "releaseDate": "05 October 2024",
+        "editorRating": "4.6",
+        "viewerRating": "4.7",
+        "fullDescription": "Zuhal Olcay en sevdiyi caz parçalarını seslendiriyor...",
+        "poster": "https://www.example.com/zuhal.jpg",
+      
+        "comments": [
+          { "text": "Caz severler için harika bir konser", "rating": 5 },
+          { "text": "Müzik güzeldi, amma akustik zəif idi", "rating": 3 }
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "id": 11,
+        "title": "Galatasaray vs Fenerbahçe",
+        "description": "İstanbul derbisinin heyecanı...",
+        "type": ["Football", "Sports"],
+        "releaseDate": "30 September 2024",
+        "editorRating": "5.0",
+        "viewerRating": "4.9",
+        "fullDescription": "Galatasaray ve Fenerbahçe, Süper Lig'de karşı karşıya geliyor...",
+        "poster": "https://www.example.com/derbi.jpg",
+       
+        "comments": [
+          { "text": "Heyecanlı bir derbi olacak!", "rating": 5 },
+          { "text": "Tribün şovları da harikaydı", "rating": 5 }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Beşiktaş vs Trabzonspor",
+        "description": "Süper Lig'de kritik maç...",
+        "type": ["Football", "Sports"],
+        "releaseDate": "07 October 2024",
+        "editorRating": "4.8",
+        "viewerRating": "4.7",
+        "fullDescription": "Beşiktaş ve Trabzonspor arasında gərgin bir mübarizə...",
+        "poster": "https://www.example.com/besiktas.jpg",
+       
+        "comments": [
+          { "text": "Büyük heyecan yaşandı", "rating": 5 },
+          { "text": "Beşiktaş formda", "rating": 4 }
+        ]
+      }
+    ],
+    "standup": [
+      {
+        "id": 13,
+        "title": "Galatasaray vs Fenerbahçe",
+        "description": "İstanbul derbisinin heyecanı...",
+        "type": ["Football", "Sports"],
+        "releaseDate": "30 September 2024",
+        "editorRating": "5.0",
+        "viewerRating": "4.9",
+        "fullDescription": "Galatasaray ve Fenerbahçe, Süper Lig'de karşı karşıya geliyor...",
+        "poster": "https://www.example.com/derbi.jpg",
+        
+        "comments": [
+          { "text": "Heyecanlı bir derbi olacak!", "rating": 5 },
+          { "text": "Tribün şovları da harikaydı", "rating": 5 }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Beşiktaş vs Trabzonspor",
+        "description": "Süper Lig'de kritik maç...",
+        "type": ["Football", "Sports"],
+        "releaseDate": "07 October 2024",
+        "editorRating": "4.8",
+        "viewerRating": "4.7",
+        "fullDescription": "Beşiktaş ve Trabzonspor arasında gərgin bir mübarizə...",
+        "poster": "https://www.example.com/besiktas.jpg",
+      
+        "comments": [
+          { "text": "Büyük heyecan yaşandı", "rating": 5 },
+          { "text": "Beşiktaş formda", "rating": 4 }
+        ]
+      }
+    ],
+    "operabale": [
+      {
+        "id": 15,
+        "title": "Galatasaray vs Fenerbahçe",
+        "description": "İstanbul derbisinin heyecanı...",
+        "type": ["Football", "Sports"],
+        "releaseDate": "30 September 2024",
+        "editorRating": "5.0",
+        "viewerRating": "4.9",
+        "fullDescription": "Galatasaray ve Fenerbahçe, Süper Lig'de karşı karşıya geliyor...",
+        "poster": "https://www.example.com/derbi.jpg",
+       
+        "comments": [
+          { "text": "Heyecanlı bir derbi olacak!", "rating": 5 },
+          { "text": "Tribün şovları da harikaydı", "rating": 5 }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Beşiktaş vs Trabzonspor",
+        "description": "Süper Lig'de kritik maç...",
+        "type": ["Football", "Sports"],
+        "releaseDate": "07 October 2024",
+        "editorRating": "4.8",
+        "viewerRating": "4.7",
+        "fullDescription": "Beşiktaş ve Trabzonspor arasında gərgin bir mübarizə...",
+        "poster": "https://www.example.com/besiktas.jpg",
+      
+        "comments": [
+          { "text": "Büyük heyecan yaşandı", "rating": 5 },
+          { "text": "Beşiktaş formda", "rating": 4 }
+        ]
+      }
+    ],
+    "diger":{
+       "gosteri": [],
+      "egitim":[],
+      "seminer":[],
+      "etkinlikler":[],
+      "eglence":[]
+    }
+    
+  }
+  
